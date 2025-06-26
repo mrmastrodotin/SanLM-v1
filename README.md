@@ -1,2 +1,3 @@
-# SanLM-v1
-Lite version of SanLM - Offline AI Notes Assistant
+# SanLM v1
+
+This is the official source code for SanLM v1 Lite version.
